@@ -1,6 +1,6 @@
 # Pipeline Guidelines
 
-These guidelines are designed to ensure a smooth and efficient development pipeline for your GitHub repository/project. Following industry best practices will help maintain code quality, collaboration, and automation throughout the development process.
+These guidelines are designed to ensure a smooth and efficient development pipeline for Whisker Warrior Works. Following industry best practices will help maintain code quality, collaboration, and automation throughout the development process.
 
 ## Continuous Integration (CI)
 
