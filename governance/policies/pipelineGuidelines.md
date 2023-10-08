@@ -4,7 +4,7 @@ These guidelines are designed to ensure a smooth and efficient development pipel
 
 ## Continuous Integration (CI)
 
-1. **Use a CI/CD Service:** Employ a CI/CD service like Travis CI, CircleCI, GitHub Actions, or Jenkins to automate your build and deployment processes.
+1. **Use a CI/CD Service:** Employ a CI/CD service like GitHub Actions or Azure DevOps Pipelines to automate your build and deployment processes.
 
 2. **Automate Testing:** Ensure that your CI pipeline includes automated tests (unit tests, integration tests, etc.) to validate code changes.
 
